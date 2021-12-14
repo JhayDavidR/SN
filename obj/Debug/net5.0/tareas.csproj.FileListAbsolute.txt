@@ -1,0 +1,114 @@
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\appsettings.Development.json
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\appsettings.json
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\tareas.exe
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\tareas.deps.json
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\tareas.runtimeconfig.json
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\tareas.runtimeconfig.dev.json
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\tareas.dll
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\ref\tareas.dll
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\tareas.pdb
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\tareas.Views.dll
+C:\proyectos .Net\2141449-C\tareas\bin\Debug\net5.0\tareas.Views.pdb
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.csproj.AssemblyReference.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.AssemblyInfoInputs.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.AssemblyInfo.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.csproj.CoreCompileInputs.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.MvcApplicationPartsAssemblyInfo.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.RazorAssemblyInfo.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.RazorAssemblyInfo.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\staticwebassets\tareas.StaticWebAssets.Manifest.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\staticwebassets\tareas.StaticWebAssets.xml
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\scopedcss\bundle\tareas.styles.css
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.TagHelpers.input.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.TagHelpers.output.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.RazorCoreGenerate.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.RazorTargetAssemblyInfo.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.RazorTargetAssemblyInfo.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.Views.pdb
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.dll
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\ref\tareas.dll
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.pdb
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.genruntimeconfig.cache
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\tareas.csproj.CopyComplete
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Home\Password.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Shared\_LayoutPublic.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Coordinador\index.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Profesor\index.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Shared\Template\_areasuperior.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Shared\Template\_areatrabajo.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Shared\Template\_layoutprivate.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Shared\Template\_menuvertical.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Shared\Template\_piedepagina.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Alumno\index.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Coordinador\Empresas.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Coordinador\Roles.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Coordinador\Tareas.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Coordinador\Template\_menuvertical.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Profesor\Template\_menuvertical.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Alumno\Template\_menuvertical.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Profesor\Template\_areasuperior.cshtml.g.cs
+C:\proyectos .Net\2141449-C\tareas\obj\Debug\net5.0\Razor\Views\Alumno\Template\_areasuperior.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\tareas.exe
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\tareas.deps.json
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\tareas.runtimeconfig.json
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\tareas.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\tareas.dll
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\ref\tareas.dll
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\tareas.pdb
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\tareas.Views.dll
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\bin\Debug\net5.0\tareas.Views.pdb
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.AssemblyInfo.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.RazorAssemblyInfo.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.RazorAssemblyInfo.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\staticwebassets\tareas.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\staticwebassets\tareas.StaticWebAssets.xml
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\scopedcss\bundle\tareas.styles.css
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.TagHelpers.input.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.TagHelpers.output.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.RazorCoreGenerate.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Shared\Template\_areasuperior.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Shared\Template\_areatrabajo.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Shared\Template\_layoutprivate.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Shared\Template\_menuvertical.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Shared\Template\_piedepagina.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Shared\_LayoutPublic.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.Views.pdb
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.dll
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\ref\tareas.dll
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.pdb
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.genruntimeconfig.cache
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\tareas.csproj.CopyComplete
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Alumno\index.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Alumno\Template\_areasuperior.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Alumno\Template\_menuvertical.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Coordinador\index.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Coordinador\Template\_menuvertical.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Home\forgot.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Profesor\index.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Profesor\Template\_areasuperior.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Profesor\Template\_menuvertical.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Coordinador\Ausencias.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Coordinador\GestionAlumnos.cshtml.g.cs
+C:\Users\Asus\Documents\Ejercicios-.NET\InterfazWeb\SisNotas\obj\Debug\net5.0\Razor\Views\Coordinador\Presupuesto.cshtml.g.cs
